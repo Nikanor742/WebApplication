@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "19816069355",
+    "firebase_url": "https://webapplication-efaea-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "webapplication-efaea",
+    "storage_bucket": "webapplication-efaea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19816069355:android:b190aa7f61bbd39ab9a6ae",
+        "android_client_info": {
+          "package_name": "com.MyPersonalCompany.WebApplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUXYPyxl2PGTYg3s5qGQWRFX2m91fKMcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
